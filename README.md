@@ -1,2 +1,2 @@
-# Metodolog-as
+# Metodologia
 De la Programación 
